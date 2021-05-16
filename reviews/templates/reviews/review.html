@@ -6,12 +6,19 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Review</title>
 </head>
+
+
 <body>
-      <form>
-        <label for="username">Your name</label>      
-        <input id="username" name="username" type="text">
-        <button>Send</button>
-</form>
+      <form action="/" method="POST">
+              {% csrf_token %}
+                <label for="username">Your name</label>      
+                <input id="username" name="username" type="text">
+                <button type="submit">Send</button>
+        </form>
+        
         
 </body>
+
+
+
 </html>
