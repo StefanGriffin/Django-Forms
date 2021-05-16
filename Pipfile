@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+requests = "*"
+pylint-django = "*"
+rich = "*"
+jinja2 = "*"
 
 [dev-packages]
 
