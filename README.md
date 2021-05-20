@@ -12,7 +12,7 @@
 
 [5 - Added static css ](../../tree/f0b9a55e98f9f0556d8da7c7c1ad4dd088d8457d/)
 
-[6 - Next ](../../tree//)
+[6 - Form completed](../../tree/8d46a5580aecf6ff1cd1750128299b278b3b720a/)
 
 [7 - Next ](../../tree//)
 
