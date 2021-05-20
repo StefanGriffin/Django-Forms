@@ -9,6 +9,7 @@ requests = "*"
 pylint-django = "*"
 rich = "*"
 jinja2 = "*"
+autopep8 = "*"
 
 [dev-packages]
 
