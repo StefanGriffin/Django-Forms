@@ -1,45 +1,26 @@
 {% load static %}
 
-
 <!DOCTYPE html>
 <html lang="en">
-<head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="{% static 'reviews/review.css' %}">
-        <title>Review</title>
-</head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{% static 'reviews/review.css' %}" />
+    <title>Review</title>
+  </head>
 
+  <body>
+    <form action="/" method="POST">
+      {% csrf_token %} 
+      
+      {% for field in form %}
 
-<body>
-      <form action="/" method="POST">
-            {% csrf_token %}
-            {% for field in form %}
-
-             <div class="form-control {% if field.errors %}errors{% endif %}">
-                {{ field.label_tag }}
-                {{ field }} 
-                {{ field.errors }}
-            </div>
-
-            {% endfor %}
-
-            {% comment %} <div class="form-control {% if form.review_text.errors %}errors{% endif %}">
-                {{ form.review_text.label_tag }}
-                {{ form.review_text }} 
-                {{ form.review_text.errors }}
-            </div>
-            <div class="form-control {% if form.rating.errors %}errors{% endif %}">
-                {{ form.rating.label_tag }}
-                {{ form.rating }} 
-                {{ form.rating.errors }}
-            </div> {% endcomment %}
-                <button type="submit">Send</button>
-        </form>
-        
-        
-</body>
-
-
+      <div class="form-control {% if field.errors %}errors{% endif %}">
+        {{ field.label_tag }} {{ field }} {{ field.errors }}
+      </div>
+      {% endfor %}
+      <button type="submit">Send</button>
+    </form>
+  </body>
 </html>
