@@ -1,20 +1,12 @@
+{% extends 'reviews/base.html' %}
 
-{% load static %}
 
+{% block title %}
+    Thank You
+{% endblock title %}
+    
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="{% static 'reviews/thankyou.css' %}">
-        <title>Thank You</title>
-</head>
-<body>
-
-<h2>Thank you for submitting your data!!</h2>
-
-        
-</body>
-</html>
+{% block content %}
+<h1>Thank You</h1>
+{% endblock content %}
+    
