@@ -18,7 +18,7 @@
 
 [8 - Auto-created the form based on the model ](../../tree/821d38da629ac26b65a5b9017b0f4ff4286c0368/)
 
-[9 - Changed function view with class view ](../../tree/08f05a38804fc746ca979cad0d5f1640e5563f72/)
+[9 - Added base.html and continue with the Class based view ](../../tree/2bf72320f18fc047207697161b78ade43041f4bf/)
 
 [10 - Empty ](../../tree//)
 
