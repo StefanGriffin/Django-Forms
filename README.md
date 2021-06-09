@@ -1,6 +1,6 @@
-## Django - FORMS - Practice
+## Django - Practice
 
-### Forms1
+### Forms, Models, Class_based_view, and more
 
 [1 - Project setup ](../../tree/588ef4ed6b903d5ee2e75997618e47ab77316e9e/)
 
@@ -21,6 +21,26 @@
 [9 - Added base.html and continue with the Class based view ](../../tree/2bf72320f18fc047207697161b78ade43041f4bf/)
 
 [10 - Added review page ](../../tree/a4fa57b2e9e4e9a00d86663bf79500052277e3eb/)
+
+[11 - Added single review dinamic id ](../../tree/ef31122c1b402d5cb1c11b90ddf72c15b6a7c909/)
+
+[12 - Empty ](../../tree//)
+
+[13 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
+
+[10 - Empty ](../../tree//)
 
 [10 - Empty ](../../tree//)
 
