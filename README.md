@@ -24,9 +24,9 @@
 
 [11 - Added single review dinamic id ](../../tree/ef31122c1b402d5cb1c11b90ddf72c15b6a7c909/)
 
-[12 - Empty ](../../tree//)
+[12 - Added ListView ](../../tree/2620816ea21e0385199319fc6a80cfcc5b59e52f/)
 
-[13 - Empty ](../../tree//)
+[13 - Added DetailView ](../../tree/40829d6b9ec056e3ad851574a320442645732094/)
 
 [10 - Empty ](../../tree//)
 
