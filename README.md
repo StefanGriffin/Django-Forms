@@ -28,20 +28,28 @@
 
 [13 - Added DetailView ](../../tree/40829d6b9ec056e3ad851574a320442645732094/)
 
-[10 - Added FormView ](../../tree/9fc2558ef680bcea554f13f75e1986fd19c8c4bd/)
+[14 - Added FormView ](../../tree/9fc2558ef680bcea554f13f75e1986fd19c8c4bd/)
 
-[10 - Added CreateView ](../../tree/b7526f2dcdf0419a62f27ddaa7b568d22005b766/)
+[15 - Added CreateView ](../../tree/b7526f2dcdf0419a62f27ddaa7b568d22005b766/)
 
-[10 -  Created profiles app ](../../tree/75c811f05110d7e0116863bbf22dc53dc3563fb3/)
+[16 -  Created profiles app ](../../tree/75c811f05110d7e0116863bbf22dc53dc3563fb3/)
 
-[10 - Empty ](../../tree//)
+[17 -  Upload image with a form validation from Django ](../../tree/c32d701d5c542ac82616cdbce36cb96299d596e5/)
 
-[10 - Empty ](../../tree//)
+[18 - Empty ](../../tree//)
 
-[10 - Empty ](../../tree//)
+[19 - Empty ](../../tree//)
 
-[10 - Empty ](../../tree//)
+[20 - Empty ](../../tree//)
 
-[10 - Empty ](../../tree//)
+[21 - Empty ](../../tree//)
 
-[10 - Empty ](../../tree//)
+[22 - Empty ](../../tree//)
+
+[22 - Empty ](../../tree//)
+
+[22 - Empty ](../../tree//)
+
+[22 - Empty ](../../tree//)
+
+[22 - Empty ](../../tree//)
