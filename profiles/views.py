@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.views import View
 from django.http import HttpResponseRedirect 
 
+
 from .forms import ProfileForm 
 from .models import UserProfile 
 
@@ -33,5 +34,10 @@ class CreateProfileView(View):
             "form": submitted_form
         })
         
+class ProfileView():
+    pass
+
+
+
 
 
