@@ -7,6 +7,12 @@
     <title>User Profiles</title>
 </head>
 <body>
-    <ul></ul>
+    <ul>
+        {% for profile in profiles %}
+        <li>
+            <img src="{{ profile.image.url }}">
+        </li>
+        {% endfor %}
+    </ul>
 </body>
 </html>

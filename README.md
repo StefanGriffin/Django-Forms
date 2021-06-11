@@ -36,7 +36,7 @@
 
 [17 -  Upload image with a form validation from Django ](../../tree/c32d701d5c542ac82616cdbce36cb96299d596e5/)
 
-[18 - Empty ](../../tree//)
+[18 - Serving the uploads 1 of 2 ](../../tree/7da247fce6037373352c724e1263544179266388/)
 
 [19 - Empty ](../../tree//)
 
